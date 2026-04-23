@@ -1,26 +1,51 @@
 <h1 align="center">Hi 👋, I'm Stefanos Tzaferis</h1>
-<h3 align="center">An undergraduate student in computer science at the University of Athens, Greece.</h3>
+<h3 align="center">Computer Science Student | Systems & Digital Design Focus</h3>
 
 <p align="center">
-  📫 How to reach me: <b>stzaferis04@gmail.com</b>
+  BSc Undergraduate at the University of Athens (NKUA) 🎓
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/stefanos-tzaferis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://fb.com/TzaferisStefanos" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://discord.gg/1026546375372054568" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+### ⚡ About Me
+- 🔐 **Researching System Security** through academic labs, focusing on **ethical exploitation** and **cryptography**.
+- ⚙️ Interested in **High-Performance Computing (HPC)**, **OS Internals**, and **Computer Architecture**.
+- 🛠️ Currently building **Compiler components** (Lexers, Syntax Analysis) using **Java** & **JavaCUP**.
+- 💡 I enjoy bridging the gap between low-level hardware (**VHDL / RISC-V**) and high-performance software.
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+**Low-Level & Systems**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,docker,figma,git,html,java,js,linux,matlab,mysql,nodejs,opencv,python,pytorch,react,ts&perline=11" alt="Stefanos Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,docker&perline=10" alt="Systems" />
   </a>
+  <br>
+</p>
+
+**Data & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,opencv,mysql,matlab&perline=10" alt="Data and Tools" />
+  </a>
+  <br>
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanosTzaf&theme=dark" alt="StefanosTzaf Streak" />
-</p>
+### 📊 GitHub Analytics
+
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanosTzaf&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,typescript&bg_color=0d1117" height="170" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanosTzaf&theme=dark&hide_border=true&background=0d1117" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
