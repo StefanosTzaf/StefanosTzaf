@@ -14,10 +14,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: StefanosTzaf
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          base: header, repositories
           config_timezone: Europe/Athens
           config_display: large
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
           plugin_languages: yes
           plugin_languages_ignored: html, css, javascript, typescript
           plugin_languages_details: bytes-size, percentage
-          config_order: base.header, base.activity+community, base.repositories, languages
+    
+          config_order: base.header, isocalendar, base.repositories, languages
