@@ -37,15 +37,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanosTzaf&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,typescript&bg_color=0d1117" height="170" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanosTzaf&theme=dark&hide_border=true&background=0d1117" height="170" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
