@@ -10,7 +10,6 @@
 ### ⚡ About Me
 - 🔐 **Researching System Security** through academic labs, focusing on **ethical exploitation** and **cryptography**.
 - ⚙️ Interested in **High-Performance Computing (HPC)**, **OS Internals**, and **Computer Architecture**.
-- 🛠️ Currently building **Compiler components** (Lexers, Syntax Analysis) using **Java** & **JavaCUP**.
 - 💡 I enjoy bridging the gap between low-level hardware (**VHDL / RISC-V**) and high-performance software.
 
 <br/>
