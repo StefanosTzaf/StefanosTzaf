@@ -7,7 +7,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 - I enjoy hardware design and running simulations using VHDL and Xilinx Vivado.
 - Writing mostly C and C++, building low-level software and exploring OS internals and systems programming.
 
