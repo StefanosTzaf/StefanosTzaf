@@ -8,8 +8,8 @@
 ---
 
 ### ⚡ About Me
-- ⚙️ Interested in **High-Performance Computing (HPC)**, **OS Internals**, and **Computer Architecture**.
-- 💡 I enjoy bridging the gap between low-level hardware (**VHDL / RISC-V**) and high-performance software.
+- I enjoy hardware design and running simulations using VHDL and Xilinx Vivado.
+- Writing mostly C and C++, building low-level software and exploring OS internals and systems programming.
 
 <br/>
 
@@ -26,7 +26,7 @@
 **Data & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,opencv,mysql,matlab&perline=10" alt="Data and Tools" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,matlab&perline=10" alt="Data and Tools" />
   </a>
   <br>
 </p>
